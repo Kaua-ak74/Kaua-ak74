@@ -3,12 +3,14 @@
 ## 🧠 Sobre mim 
 
 💻 Estudante de Desenvolvimento de Sistemas
+
 💻 Pesquisa e estudo sobre cybersecurity
 
 ---
 
 ## 💻 Sistemas Operacionais
 Windows 10 e 11
+
 Kali Linux
 
 ---
@@ -35,13 +37,6 @@ Kali Linux
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
----
-## 📊 Estatísticas do GitHub  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonilso&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonilso&layout=compact&theme=tokyonight)  
 
 ---
 
