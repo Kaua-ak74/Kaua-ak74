@@ -40,8 +40,4 @@ Kali Linux
 
 ---
 
-## 📈 Gráfico de Atividade  
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leonilso&theme=tokyo-night)  
-
 ⭐ Se gostar dos meus projetos, considere dar uma estrela!"
